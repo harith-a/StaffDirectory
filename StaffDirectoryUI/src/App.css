@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+.green-font{
+  background-color: #282c34;
+  color: rgb(100, 187, 100);
+}
+
+.yellow-font{
+  background-color: #282c34;
+  color: yellow;
+}
